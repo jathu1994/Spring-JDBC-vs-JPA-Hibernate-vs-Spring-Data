@@ -1,1 +1,1 @@
-jatha
+This will compare the code that handle basic CRUD functions in H2 in-memeory db. Spring JDBC ,JPA-Hibernate and Spring Data way of handling are compared
